@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c41b7cc58342094693095020d6f6db3, type: 3}
+  m_Name: InfoPoint_Baenke_Lichtmasten_Muelleimer
+  m_EditorClassIdentifier: 
+  iconSprite: {fileID: 0}
+  placeName: 
+  locationData: {fileID: 0}
+  interestPointPhotoLocalized:
+  - {fileID: 21300000, guid: 343e156cf3991664b9350d137dca7300, type: 3}
+  - {fileID: 21300000, guid: dcb6acddd78f37a499b454bae5986b99, type: 3}
+  - {fileID: 21300000, guid: 0c9fae0c63767a443ad062b7eb02aa49, type: 3}
+  - {fileID: 21300000, guid: 5d3baaadd586a1845a4a724c79f34774, type: 3}
+  - {fileID: 21300000, guid: 9a31cb30c1eaeee4aaa988e0ef15844d, type: 3}
+  interestPointDescription: 

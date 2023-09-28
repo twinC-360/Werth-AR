@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b294d427ee5155e4183403b4916c14de, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bee49120b2a854a47a5b25fe609ab09d, type: 3}
+  - {fileID: 21300000, guid: 614b4680156cfd84daac28fbe775240f, type: 3}
+  - {fileID: 21300000, guid: dba498f024b55a84fbdca24246b98bb5, type: 3}
+  - {fileID: 21300000, guid: 329e0741fef378a45bb335c2aaf1c63a, type: 3}
+  - {fileID: 21300000, guid: 643bb933600030340a52d21e424fa8ae, type: 3}
+  - {fileID: 21300000, guid: 0403eca39e345c94aae7c017513ba682, type: 3}
+  - {fileID: 21300000, guid: d19c6604959ee464f8e5fefc989525bf, type: 3}
+  - {fileID: 21300000, guid: fd58cd8403b1b0e4db57c9d3a7465a10, type: 3}
+  - {fileID: 21300000, guid: 54fde345c38721b4b9ce7f600461e890, type: 3}
+  - {fileID: 21300000, guid: 77528a75a16dca549b2bb6deac96e399, type: 3}
+  - {fileID: 21300000, guid: 850e62b541d116c43964430936e6688d, type: 3}
+  - {fileID: 21300000, guid: 694cd926872f3394bb34152494faf932, type: 3}
+  - {fileID: 21300000, guid: cdcc5a2602874f9419f1ce99ebaa9555, type: 3}
+  - {fileID: 21300000, guid: e88dd3865bbb254479368a3cc8b64e62, type: 3}
+  - {fileID: 21300000, guid: 207608a664e1c544aa402d230c982061, type: 3}
+  - {fileID: 21300000, guid: 73c37198c1ab50e47bf32dd75ca6a5d9, type: 3}
+  - {fileID: 1492491542, guid: 031dcfa83296b2040a951941f7c98adc, type: 3}
+  - {fileID: -25338170, guid: 031dcfa83296b2040a951941f7c98adc, type: 3}
+  - {fileID: -1119617862, guid: 031dcfa83296b2040a951941f7c98adc, type: 3}
+  - {fileID: 1238276653, guid: 031dcfa83296b2040a951941f7c98adc, type: 3}
+  - {fileID: -1606320798, guid: 031dcfa83296b2040a951941f7c98adc, type: 3}
+  - {fileID: -1314707273, guid: 031dcfa83296b2040a951941f7c98adc, type: 3}
+  - {fileID: 21300000, guid: 3aa939399a609f94790f9fdfdca41927, type: 3}
+  - {fileID: 21300000, guid: 248026698b4333343a06e66def776924, type: 3}
+  - {fileID: 21300000, guid: f2cb682a80a66c6448c056e47f7e7f26, type: 3}
+  - {fileID: 21300000, guid: 5d8c70ba4252c744a90610d852c5087d, type: 3}
+  - {fileID: 21300000, guid: fdb694da53c8365499d5962e6724886c, type: 3}
+  - {fileID: 21300000, guid: 3e883f5bc560df341bdc64e101b30f08, type: 3}
+  - {fileID: 21300000, guid: c04539cbc49f2a345aa077968c81d366, type: 3}
+  - {fileID: 21300000, guid: b8e1687c9bcf8ec4f9fbe9861188be38, type: 3}
+  - {fileID: 21300000, guid: a5f59b0dc832c93498fac1ee45d4a538, type: 3}
+  - {fileID: 21300000, guid: 74d14a4d97e2520418fe086976edd62f, type: 3}
+  - {fileID: 21300000, guid: bb81d8ed596f58e4c9623e468507d413, type: 3}
+  - {fileID: 21300000, guid: c5b6009eac22d9f45ba956871e4b0fb0, type: 3}
+  - {fileID: 21300000, guid: 323efbce2afd16f49925368b8e13534e, type: 3}
+  - {fileID: 21300000, guid: 4ca3102fe9d039646b17b94a6ae569b1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Tuffi
+  - Heute Light
+  - OKButton
+  - Bismarck
+  - Gruppe 1346
+  - Morgen Bold
+  - Kugelbrunnen
+  - Huschhusch
+  - Tal der Wupper
+  - Start
+  - Johannes-Rau-Platz
+  - Morgen Light
+  - WO BEFIndestdu dich
+  - Astropfad
+  - PopupWindow
+  - Footer
+  - Past_Active
+  - Present_Disabled
+  - Past_Disabled
+  - Future_Active
+  - Present_Active
+  - Future_Disabled
+  - Info
+  - Geschwister Scholl Platz
+  - Virtueller_Stadtspaziergang
+  - Alter Markt
+  - Heute Bold
+  - SMART.WERTH
+  - Slide Out
+  - Gestern Light
+  - Schwebodrom
+  - "Schildkr\xF6ten"
+  - Gestern Bold
+  - "Zur\xFCck"
+  - Slide In
+  - Auto_GPS
+  m_RenderDataMap: {}
+  m_Tag: UI_Atlas
+  m_IsVariant: 0

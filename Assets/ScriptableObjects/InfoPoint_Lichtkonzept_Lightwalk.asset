@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c41b7cc58342094693095020d6f6db3, type: 3}
+  m_Name: InfoPoint_Lichtkonzept_Lightwalk
+  m_EditorClassIdentifier: 
+  iconSprite: {fileID: 0}
+  placeName: 
+  locationData: {fileID: 0}
+  interestPointPhotoLocalized:
+  - {fileID: 21300000, guid: a10c56522b31bff4dba0d6d4ac5ca2f0, type: 3}
+  - {fileID: 21300000, guid: d4df0d2bd1b1e404ea31e47153c1ac7a, type: 3}
+  - {fileID: 21300000, guid: e79f6e6aa2154574f833522031882897, type: 3}
+  - {fileID: 21300000, guid: 28954235cb47aa747b4edcfff0323c44, type: 3}
+  - {fileID: 21300000, guid: 62e9e61e3959f694c9ec7b6166780001, type: 3}
+  interestPointDescription: 

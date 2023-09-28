@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c41b7cc58342094693095020d6f6db3, type: 3}
+  m_Name: "Schildkr\xF6ten"
+  m_EditorClassIdentifier: 
+  iconSprite: {fileID: 21300000, guid: 7dcd1b168d056114ab786ddb93ef9383, type: 3}
+  placeName: "Schildkr\xF6ten"
+  locationData: {fileID: 11400000, guid: ab307554734226d4bbd4971a7fd53fe6, type: 2}
+  interestPointPhoto: {fileID: 21300000, guid: 8ae6268170cfd6349b976257f51ddd41, type: 3}
+  interestPointPhotoLocalized:
+  - {fileID: 21300000, guid: e558872b5b093fc479328783f1e70b80, type: 3}
+  - {fileID: 21300000, guid: 0e6779a42647b5047a4c15fbf8a2ad6f, type: 3}
+  - {fileID: 21300000, guid: d3665532517d546489081558b4941890, type: 3}
+  - {fileID: 21300000, guid: 4c15827a69c2d7146976db7b073dc267, type: 3}
+  - {fileID: 21300000, guid: c9e6d54c0f0de2e45b90f328b65bb689, type: 3}
+  interestPointDescription: "Die drei bronzenen Schildkr\xF6ten auf dem Werth wurden
+    1991 zum Spielen f\xFCr Kinder aufgestellt. Urspr\xFCnglich lag eine der drei
+    Schildkr\xF6ten auf dem R\xFCcken. Sie sollte spielerisch den Gleichgewichtssinn
+    der Kinder anregen. Tiersch\xFCtzer*innen beschwerten sich \xFCber die Lage der
+    Schildkr\xF6te. Eine Schildkr\xF6te kann sich nicht selbst vom R\xFCcken auf
+    den Bauch drehen und w\xFCrde sterben. Daraufhin wurde die Schildkr\xF6te umgedreht.\n\nAufstellung
+    April 1991\nK\xFCnstler: Rheinhold Baron, Karl Heinz Frotz\n"

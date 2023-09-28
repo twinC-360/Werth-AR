@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: Asset Table_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: c481afe916d6f2b438e203e19b7fa3ff, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 13302805098496
+    m_Localized: 1e9ef305763694f4586effa848678934
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6121091297280
+    m_Localized: 0fd895816b997044b882df4cd79817f7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9251094851584
+    m_Localized: a6c53ad9b5114ca4882228d57c3b3b5f
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9310570082304
+    m_Localized: 6c3a4b156176944469cdf34947391ee0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13236006612992
+    m_Localized: 20d3e2e70bb19ae4f9559750fd9ec620
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10790521860096
+    m_Localized: e13b2ce2981131d4eb00490f2e6fd8d7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13323889864704
+    m_Localized: 1da81613442e9254886b359b881f9d56
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13343829585920
+    m_Localized: 0ebdd4135cbba4343a48a3449a1f8842
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1087933779603456
+    m_Localized: 80318248463b6d243a743343ff7027b3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1087949059452928
+    m_Localized: 6b94ec0035a7fc54cbd617f95cba4a3f
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088774326513664
+    m_Localized: 51cc258595f782f4ebd31837321f7918
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088061462605824
+    m_Localized: 80318248463b6d243a743343ff7027b3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088791271501824
+    m_Localized: f2be22ebf5dc13d409b43b8559004a05
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088906656804864
+    m_Localized: 358dbb2fc4cf92b4991f6783586d8373
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088924067360768
+    m_Localized: 358dbb2fc4cf92b4991f6783586d8373
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1088933231915008
+    m_Localized: aca7d6cf0683bf341827c8daa0e84004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1089306973761536
+    m_Localized: f2be22ebf5dc13d409b43b8559004a05
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

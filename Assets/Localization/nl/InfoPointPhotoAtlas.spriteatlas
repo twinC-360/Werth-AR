@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: InfoPointPhotoAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: acbf7975a9c5101448debbe0ab425bbb, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 14221210afcdf674daf239090c543197, type: 3}
+  - {fileID: 21300000, guid: a4c046b25a595234fa8a7446d1d37d5d, type: 3}
+  - {fileID: 21300000, guid: ba49fb249dc4b84439edbb0be72cd064, type: 3}
+  - {fileID: 21300000, guid: 8bd6d73418af1f14e8cf116b0d77d6de, type: 3}
+  - {fileID: 21300000, guid: a62c82758e213ce4c9a8f6b38608851b, type: 3}
+  - {fileID: 21300000, guid: 25a3a139e5875564cae0207d65c04aad, type: 3}
+  - {fileID: 21300000, guid: e79f6e6aa2154574f833522031882897, type: 3}
+  - {fileID: 21300000, guid: 6ada4ada4122ffb42b0e25ffdd1dc72b, type: 3}
+  - {fileID: 21300000, guid: 0c9fae0c63767a443ad062b7eb02aa49, type: 3}
+  - {fileID: 21300000, guid: 18c8262ea1899b641abc783397558c59, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "Kulturteppich Barmen_Niederl\xE4ndisch"
+  - "Gesellschaft Concordia_Niederl\xE4ndisch"
+  - "Natursteinbelag_Niederl\xE4ndisch"
+  - "Haus der Jugend_Niederl\xE4ndisch"
+  - "Kulturteppich Beginn_Niederl\xE4ndisch"
+  - "Johannes Rau Platz_Niderl\xE4ndisch"
+  - "Lichtkonzept_Niederl\xE4ndisch"
+  - "Rathaus_Niederl\xE4ndisch"
+  - "B\xE4nke etc._Niederl\xE4ndisch"
+  - "Barrierefreiheit_Niederl\xE4ndisch"
+  m_RenderDataMap: {}
+  m_Tag: InfoPointPhotoAtlas
+  m_IsVariant: 0

@@ -1,4 +1,11 @@
-Required 3rd party libs or Plugins.
+# Werth AR
+
+This is a Unity app that has been develop for the City of Wuppertal.
+
+This project is been published as required by the SmartCity publishing guidelines.
+
+
+# Required 3rd party libs or Plugins.
 
 This application is using the following addon / plugins, that could not be published here for licensing reasons:
 
@@ -21,6 +28,12 @@ This application is using the following addon / plugins, that could not be publi
 
   https://assetstore.unity.com/packages/3d/vegetation/trees/mobile-tree-package-18866
 
+
+Textures:
+
+- Historical building textures are based on images from Stadtarchiv Wuppertal.
+
+- Textures from other commercial sources have been removed in this publishing.
 
 
 Copyright Notice

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c41b7cc58342094693095020d6f6db3, type: 3}
+  m_Name: Bismarck
+  m_EditorClassIdentifier: 
+  iconSprite: {fileID: 21300000, guid: 9e950d1670f507d4c8c6421ff0e40afe, type: 3}
+  placeName: Bismarck
+  locationData: {fileID: 11400000, guid: 63d1d661f0f06004b87852579cd6cfa4, type: 2}
+  interestPointPhoto: {fileID: 21300000, guid: 3f5edb7e16e6a9a42b07798bdbcc2443, type: 3}
+  interestPointPhotoLocalized:
+  - {fileID: 21300000, guid: 1060947fadaffa64ba3ebe3cbe249c5d, type: 3}
+  - {fileID: 21300000, guid: 3f8bbe482e57db842aff340ebb17ba59, type: 3}
+  - {fileID: 21300000, guid: db8b7b6fbd35a02479ecd2074dbc4bed, type: 3}
+  - {fileID: 21300000, guid: 41b990a234eddd449b81478a97c80583, type: 3}
+  - {fileID: 21300000, guid: 6b8e04fbde3f2a44c973907d3ce75112, type: 3}
+  interestPointDescription: "Otto von Bismarck war von 1871 bis 1890 erster Reichskanzler
+    des Deutschen Reiches und gilt Er gilt als Mitbegr\xFCnder des deutschen Nationalstaates.
+    Zu seinem 80. Geburtstag erhielt Bismarck das Ehrenb\xFCrgerrecht der Stadt Barmen.
+    Im Jahr 1900 wurde ihm in der N\xE4he des Barmer Rathauses ein Denkmal errichtet,
+    das zwanzig Jahre sp\xE4ter auf den Geschwister-Scholl-Platz umzog. Auf dem Denkmal
+    ist das Datum 18. Januar 1871 zu lesen. An diesem Tag wurde der preu\xDFische
+    K\xF6nig Wilhelm I. zum Deutschen Kaiser in Versailles ernannt. Diese Ernennung
+    war eines von Bismarcks gro\xDFen politischen Zielen.\n\nEinweihung 18. Januar
+    1900\nK\xFCnstler: Hugo Lederer"

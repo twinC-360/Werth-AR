@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6742032436645426448
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6742032436645426449}
+  m_Layer: 0
+  m_Name: GeoLocationSpawners
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6742032436645426449
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6742032436645426448}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6742032436774402621}
+  - {fileID: 6742032437589447401}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6742032436774402620
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6742032436774402621}
+  - component: {fileID: 6742032436774402618}
+  m_Layer: 0
+  m_Name: CitySpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6742032436774402621
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6742032436774402620}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6742032436645426449}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6742032436774402618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6742032436774402620}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 593279a25b1c4974280639daccfd3004, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Locations: []
+  PlacementOptions:
+    MovementSmoothing: 0
+    MaxNumberOfLocationUpdates: 0
+    UseMovingAverage: 0
+    HideObjectUntilItIsPlaced: 0
+    ShowObjectAfterThisManyUpdates: 1
+  Prefab: {fileID: 0}
+  DebugMode: 0
+  cityParts:
+  - {fileID: 3590353048122608399, guid: 689685289e1d3564f9ed6aaa73ab8c2c, type: 3}
+  - {fileID: 1558573992085815850, guid: 74b2a7c16f25fe1478b5468bd8887a23, type: 3}
+  - {fileID: 5614797151683246689, guid: 7b843416543867244a37620eb31af34f, type: 3}
+  anchorLocations:
+  - {fileID: 11400000, guid: f8b6824ee2ddf5f45a44f26b83650445, type: 2}
+  - {fileID: 11400000, guid: 4950caaa769c7a74c933b1a07bcb6209, type: 2}
+  - {fileID: 11400000, guid: 1cd21630fb5446b429bc6bfd841d4977, type: 2}
+--- !u!1 &6742032437589447400
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6742032437589447401}
+  - component: {fileID: 6742032437589447399}
+  m_Layer: 0
+  m_Name: InterestPoints
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6742032437589447401
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6742032437589447400}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6742032436645426449}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6742032437589447399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6742032437589447400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c555fae5b085c7f4a81ffd35ad7100a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Locations: []
+  PlacementOptions:
+    MovementSmoothing: 0
+    MaxNumberOfLocationUpdates: 0
+    UseMovingAverage: 0
+    HideObjectUntilItIsPlaced: 0
+    ShowObjectAfterThisManyUpdates: 1
+  Prefab: {fileID: 0}
+  DebugMode: 0
+  interestPoints:
+  - {fileID: 11400000, guid: 1be4147041639c240a821132e74b8467, type: 2}
+  - {fileID: 11400000, guid: 82e68ce546c6f184db02a2afcf44ba44, type: 2}
+  - {fileID: 11400000, guid: bff9a5f95a57c2d45a24a8a926d7bcf6, type: 2}
+  - {fileID: 11400000, guid: 1fc2adb18f66a7645ac935aaab1cfddb, type: 2}
+  - {fileID: 11400000, guid: 3940a3df0b5ac1747830a6c57aa656aa, type: 2}
+  - {fileID: 11400000, guid: a11b8f6d799599c4690eaeba8ccb7edb, type: 2}
+  - {fileID: 11400000, guid: a1e39cf3e91c91b40a753a0f5e7355f4, type: 2}
+  - {fileID: 11400000, guid: cee59af1ffdcc2a419afead476d97337, type: 2}
+  interestPointPrefab: {fileID: 2357974886628844298, guid: 91195a3eb44477348b63f0909c7faecb,
+    type: 3}

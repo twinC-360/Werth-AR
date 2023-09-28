@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c41b7cc58342094693095020d6f6db3, type: 3}
+  m_Name: Schwebodrom
+  m_EditorClassIdentifier: 
+  iconSprite: {fileID: 21300000, guid: e54c1e6b08457ba4ca50802290669c00, type: 3}
+  placeName: Schwebodrom
+  locationData: {fileID: 11400000, guid: f19c1be00621e924db8386dab19ddffd, type: 2}
+  interestPointPhoto: {fileID: 21300000, guid: dd751bb593135a841900aaa70faf8251, type: 3}
+  interestPointPhotoLocalized:
+  - {fileID: 21300000, guid: a6c7b53b4e0a206478563953ffad9f6b, type: 3}
+  - {fileID: 21300000, guid: d1b3e0d518904b241a2612bfcf826359, type: 3}
+  - {fileID: 21300000, guid: c1f874b7b1d98c246a5627c8b1f1f75b, type: 3}
+  - {fileID: 21300000, guid: efe72779f072807498c6fb90b242c520, type: 3}
+  - {fileID: 21300000, guid: fa5fde6c942587041a47ad0d0cce8aa9, type: 3}
+  interestPointDescription: "Das Schwebodrom ist eine moderne Erlebnisausstellung
+    rund um die Wuppertaler Schwebebahn, die im Fr\xFChjahr 2023 er\xF6ffnet werden
+    soll. Das Schwebodrom zeigt eine umfassende Ausstellung der Schwebebahn und eine
+    Multimedia-Show. Besucher*innen k\xF6nnen zudem eine virtuelle Fahrt durch Wuppertal
+    von 1929 in einem originalen, alten Schwebebahnwagen erleben.\n\nDie Er\xF6ffnung
+    ist f\xFCr das 2. Quartal 2023 geplant."

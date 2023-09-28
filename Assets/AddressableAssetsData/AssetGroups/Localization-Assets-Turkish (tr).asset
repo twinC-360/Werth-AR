@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Turkish (tr)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Turkish (tr)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 80b8a5b751f328d459d1fd94b4694cf1
+  m_SerializeEntries:
+  - m_GUID: 87bf76d720ae0ef4186137d7dd21fd9d
+    m_Address: Start
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+  - m_GUID: be0284f47aec8354e9c8960d29af0219
+    m_Address: Alter Markt
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+  - m_GUID: 2513684a9e9d6554e91759b68fb8361a
+    m_Address: Gruppe 1346
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+  - m_GUID: 60d7007aab49c8c48a578f0bb39825f9
+    m_Address: WO BEFIndestdu dich
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+  - m_GUID: 04f66efb814e02847928f4e42bc57c74
+    m_Address: Johannes-Rau-Platz
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+  - m_GUID: 969c899ccde48aa49b06da4893e0bf9f
+    m_Address: Geschwister Scholl Platz
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+  - m_GUID: ae9ee8cdd682a5642b029dfa4160154b
+    m_Address: Auto_GPS
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+  - m_GUID: e0dab3eca3e679b49a37c077dc9515d5
+    m_Address: Heute Bold
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+  - m_GUID: b3dd3ede8c4b2d542a0751e2345289ea
+    m_Address: Gestern Light
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+  - m_GUID: 3945f1c9c529d5c45be10780d44744a2
+    m_Address: Morgen Bold
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+  - m_GUID: 7686191a3769fa2488a08dfc853ae688
+    m_Address: Heute Light
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+  - m_GUID: f344f900d305e294bbbb7002ad6d91d9
+    m_Address: Gestern Bold
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+  - m_GUID: 1f886cd512eb33746acdce3bd8a03846
+    m_Address: Morgen Light
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+  - m_GUID: 1051a86111a9aea41b97f93621c89d2a
+    m_Address: Virtueller_Stadtspaziergang
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tr
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 8528e0d75215e4f41abb5a322497c0f5, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9eeb83b45dc8eb748be53de0d6870955, type: 2}
+    - {fileID: 11400000, guid: 15621809d3d2cd044a87d6529f7050b9, type: 2}

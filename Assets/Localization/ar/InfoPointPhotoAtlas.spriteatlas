@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: InfoPointPhotoAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 9f0b4de1907a46e4490e9c56a6f461dc, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9a31cb30c1eaeee4aaa988e0ef15844d, type: 3}
+  - {fileID: 21300000, guid: 228e5a728fce0b0409e4afbdac1ef8a9, type: 3}
+  - {fileID: 21300000, guid: 864d7af37a3ea574d8a828afc49925a6, type: 3}
+  - {fileID: 21300000, guid: 2c40e9b556d30af45b72816898ad9dbe, type: 3}
+  - {fileID: 21300000, guid: 594bfbc5da7856846a061500c035b4bd, type: 3}
+  - {fileID: 21300000, guid: bc155b1650f35ca44ae2090f6e006364, type: 3}
+  - {fileID: 21300000, guid: 841e02b8d58f2ec43bf72b514ae33c97, type: 3}
+  - {fileID: 21300000, guid: b7bf143a6dd815f4d84d954bdf01ce6f, type: 3}
+  - {fileID: 21300000, guid: 211fc6cb2e24be4408c18e079b1c9b38, type: 3}
+  - {fileID: 21300000, guid: 62e9e61e3959f694c9ec7b6166780001, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "B\xE4nke etc. Arabisch"
+  - Natursteinbelag_Arabisch
+  - Gesellschaft Concordia_Arabisch
+  - Kulturteppich Barmen_Arabisch
+  - Haus der Jugend_Arabisch
+  - Rathaus_Arabisch
+  - Kulturteppich Beginn_Arabisch
+  - Johannes Rau Platz_Arabisch
+  - Barrierefreiheit_Arabisch
+  - Lichtkonzept_Arabisch
+  m_RenderDataMap: {}
+  m_Tag: InfoPointPhotoAtlas
+  m_IsVariant: 0
